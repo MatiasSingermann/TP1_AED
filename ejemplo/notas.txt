@@ -1,0 +1,6 @@
+"Tipos":
+  El aula es una secuencia de secuencias de pasos de resolucion del examen, que tenga 0 pasos significa que no hay un estudiante (el primer paso es siempre el examen sin ninguna respuesta)
+  Un paso de resolucion de examen es una secuencia de examenes,donde cada examen tiene las mismas respuestas que el anterior mas una respuesta extra
+  Un examen es una secuencia de ejercicios
+  Un ejercicio es un int de 0 a 9 ambos incluidos
+
